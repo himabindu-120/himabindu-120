@@ -1,6 +1,10 @@
+<div style="display: flex; justify-content: center; align-items: center; height: 100%;">
+    <img align: center src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXhnaDNnNG50aDdpcGExbmF6eDlyaG9mNDYyMXB4bW94b2Rrcnd2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N0oyB468FLbNGZyJrr/giphy.gif" alt="MasterHead">
+</div>
+
 <h1 align="center">Hi 👋, I'm Himabindu</h1>
 <h3 align="center">A passionate Web developer</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/media/a85f637f1eb4cd5efdd307f9760472a1.gif")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1894420/screenshots/14032021/media/a85f637f1eb4cd5efdd307f9760472a1.gif"/>
 
 
 

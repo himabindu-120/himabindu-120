@@ -1,5 +1,5 @@
-<div style="display: flex; justify-content: center; align-items: center; height: 100%;">
-    <img align: center src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXhnaDNnNG50aDdpcGExbmF6eDlyaG9mNDYyMXB4bW94b2Rrcnd2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N0oyB468FLbNGZyJrr/giphy.gif" alt="MasterHead">
+<div align = "center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXhnaDNnNG50aDdpcGExbmF6eDlyaG9mNDYyMXB4bW94b2Rrcnd2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N0oyB468FLbNGZyJrr/giphy.gif" alt="MasterHead" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Himabindu</h1>
